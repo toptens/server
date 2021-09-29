@@ -1,5 +1,5 @@
 ---
-title: "About Us"
+title: "Rokib Rajon"
 description: "this is meta-description"
 image: "images/author.png"
 layout: "about"
