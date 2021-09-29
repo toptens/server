@@ -9,7 +9,7 @@ sections:
   label: Site Config
   create: documents
   match: "**/*"
-  new_doc_ext: ".toml"
+  new_doc_ext: toml
 - type: heading
   label: Site edits
 - type: directory
