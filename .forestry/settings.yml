@@ -4,10 +4,12 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: config/_default/**/*
-  label: Configuration
+- type: directory
+  path: config/_default
+  label: Site Config
+  create: documents
   match: "**/*"
+  new_doc_ext: ".toml"
 - type: heading
   label: Site edits
 - type: directory
