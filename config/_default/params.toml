@@ -51,8 +51,8 @@ title_small = "to Jhon Bravo Blog"
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
 content = "Are Developer and recently started your own business Already made website to ensure presence wants to develop."
-button_label = "Know About Me"
-button_link = "about/"
+button_label = "Explore Now"
+button_link = "categories/"
 
 # Advertise
 [advertisement]
@@ -61,7 +61,7 @@ link = "https://gethugothemes.com/"
 
 # cookies
 [cookies]
-enable = false
+enable = true
 expire_days = 2
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"

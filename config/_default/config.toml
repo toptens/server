@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/geeky/"
-title = "Geeky | Hugo Personal Blog Template"
+baseURL = "/"
+title = "TopTens | World of TopTens"
 theme = "geeky"
 languageName = "En"
 languageCode = "en-us"
