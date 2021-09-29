@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: config/_default
+  path: config/_default/**/*
   label: Configuration
   match: "**/*"
 - type: heading
