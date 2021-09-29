@@ -4,6 +4,12 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: config/_default
+  label: Configuration
+  match: "**/*"
+- type: heading
+  label: Site edits
 - type: directory
   path: content/author
   label: Author
