@@ -28,8 +28,8 @@ button_link = "categories/"
 content = "We are here to list top ten things of everything you see or know. TopTens provide you the best list on your favorite subject. "
 enable = true
 image = "images/banner.png"
-title_large = "World of **TopTens**"
-title_small = "list of the best ten things"
+title_large = "World of **TopTens.**"
+title_small = "list of *the best ten* things"
 [cookies]
 button = "I Accept"
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
