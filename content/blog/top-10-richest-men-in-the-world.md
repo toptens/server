@@ -4,7 +4,7 @@ categories = ["richest"]
 date = 2021-09-28T18:00:00Z
 description = ""
 draft = true
-image = "/uploads/elon_musk_royal_society_-crop1.jpg"
+image = "/images/elon_musk_royal_society_-crop1.jpg"
 title = "Top 10 Richest Men in the World"
 type = ""
 
