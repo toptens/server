@@ -66,6 +66,17 @@
           </li>
         </ul>
         <div class="content drop-cap">{{.Content}}</div>
+
+        {{ range .Param "authors" }}
+	{{ $name := . }}
+	{{ $path := printf "/%s/%s" "authors" ($name | urlize) }}
+	{{ with $.Site.GetPage $path }}
+		<h2>{{ .Params.name }}</h2>
+		<img src="/img{{ $path }}.jpg">
+		<p>{{ .Params.bio }}</p>
+		<p><a href="https://twitter.com/{{ .Params.twitter }}">Twitter</a></p>
+	{{ end }}
+{{ end }}
         <!-- disqus comments -->
         {{ if .Site.DisqusShortname }}
         <div class="border rounded p-4">
