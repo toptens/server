@@ -3,7 +3,7 @@ categories = ["richest"]
 date = 2021-09-28T18:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/uploads/elon_musk_royal_society_-crop1.jpg"
 title = "Top 10 Richest Men in the World"
 
 +++
@@ -15,13 +15,20 @@ We need to highlight few facts here-
 * Mark Zuckerberg is the only person who is under 40 year.
 * 6 out of the 10 richest men are from the tech world.
 
- 1. [**Jeff Bezos**](https://en.wikipedia.org/wiki/Jeff_Bezos "Jeff Bezos")
- 2. [**Elon Musk**](https://en.wikipedia.org/wiki/Elon_Musk "Elon Musk")
- 3. [**Bernard Arnault**](https://en.wikipedia.org/wiki/Bernard_Arnault "Bernard Arnault") 
- 4. [**Bill Gates**](https://en.wikipedia.org/wiki/Bill_Gates "Bill Gates")
- 5. [**Mark Zuckerberg**](https://en.wikipedia.org/wiki/Mark_Zuckerberg "Mark Zuckerberg")
- 6. [**Warren Buffett**](https://en.wikipedia.org/wiki/Warren_Buffett "Warren Buffett")
- 7. [Larry Ellison](https://en.wikipedia.org/wiki/Larry_Ellison "Larry Ellison")
- 8. [**Larry Page**](https://en.wikipedia.org/wiki/Larry_Page "Larry Page")
- 9. [**Sergey Brin**](https://en.wikipedia.org/wiki/Sergey_Brin "Sergey Brin")
-10. [**Mukesh Ambani**](https://en.wikipedia.org/wiki/Mukesh_Ambani "Mukesh Ambani")
+  #### **1.** [**Jeff Bezos**](https://en.wikipedia.org/wiki/Jeff_Bezos "Jeff Bezos")
+
+  Jeff Bezos is an American entrepreneur, media proprietor, investor, and computer engineer. He is the founder and executive chairman of **Amazon**, where he previously served as the president and CEO. With a net worth of almost $200.1 billion as of September 2021, he is the wealthiest person in the world according to both Forbes and Bloomberg's Billionaires Index.
+
+**Net Worth:** $200.1 billion
+
+#### **2.** [**Elon Musk**](https://en.wikipedia.org/wiki/Elon_Musk "Elon Musk")
+
+**Elon Reeve Musk** is an entrepreneur and business magnate. He is the founder, CEO and Chief Engineer at **SpaceX**; early stage investor, CEO and Product Architect of **Tesla, Inc**.; founder of The Boring Company; and co-founder of **Neuralink** and **OpenAI**.
+
+**Net Worth:** $151 billion
+
+#### **3.** [Bernard Arnault]()
+
+**Elon Reeve Musk** is an entrepreneur and business magnate. He is the founder, CEO and Chief Engineer at **SpaceX**; early stage investor, CEO and Product Architect of **Tesla, Inc**.; founder of The Boring Company; and co-founder of **Neuralink** and **OpenAI**.
+
+**Net Worth:** $151 billion
