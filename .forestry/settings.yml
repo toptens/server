@@ -13,8 +13,8 @@ sections:
 - type: heading
   label: Site edits
 - type: directory
-  path: content/author
-  label: Author
+  path: content/authors
+  label: Authors
   create: all
   match: "**/*"
 - type: directory
