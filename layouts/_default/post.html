@@ -46,9 +46,10 @@
       <li class="list-inline-item d-flex align-items-center">
         <i class="fas fa-user me-2"></i>
         <span>
-          {{ range .Param "authors" }}
-            {{ . }}
-          {{ end }}
+          {{- range $index, $element := .Params.authors }}
+          {{ if gt $index 0 }} & {{ end }}
+          <a href="/authors/{{ urlize . }}">{{ . }}</a>
+        {{ end }}
         </span>
       </li>
       <li class="list-inline-item d-flex align-items-center">
