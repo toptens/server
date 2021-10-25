@@ -1,5 +1,5 @@
 +++
-authors = ["rokib-rajon"]
+authors = []
 categories = ["richest"]
 date = 2021-09-28T18:00:00Z
 description = ""
