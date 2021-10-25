@@ -63,3 +63,8 @@ suffixes = [""]
 [outputFormats.WebAppManifest]
 mediaType = "application/manifest+json"
 rel = "manifest"
+############################################
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  category = "categories"
