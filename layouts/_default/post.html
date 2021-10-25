@@ -45,7 +45,11 @@
     <ul class="list-inline card-meta d-flex align-items-center mb-3">
       <li class="list-inline-item d-flex align-items-center">
         <i class="fas fa-user me-2"></i>
-        <a href="{{`about` | relLangURL}}">{{site.Params.author}}</a>
+        <span>
+          {{ range .Param "authors" }}
+            {{ . }}
+          {{ end }}
+        </span>
       </li>
       <li class="list-inline-item d-flex align-items-center">
         <i class="fas fa-calendar me-2"></i>

@@ -5,6 +5,7 @@ description = ""
 draft = true
 image = "/uploads/elon_musk_royal_society_-crop1.jpg"
 title = "Top 10 Richest Men in the World"
+authors = ["rokib-rajon"]
 
 +++
 According to the [Forbes](https://www.forbes.com/billionaires/ "Forbes") magazine in 2021 tech people are dominating the world of billionaires. If you see the list, you will find the old businesses are not in the top of the pyramid. There more than 2,755 billionaires with a total net wealth of $13.1 trillion.
